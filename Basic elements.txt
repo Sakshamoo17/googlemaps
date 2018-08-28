@@ -1,0 +1,17 @@
+HTML Elements
+An HTML element usually consists of a start tag and end tag, with the content inserted in between:
+
+<tagname>Content goes here...</tagname>
+The HTML element is everything from the start tag to the end tag:
+
+<p>My first paragraph.</p>
+Start tag	Element content	End tag
+<h1>	My First Heading	</h1>
+<p>	My first paragraph.	</p>
+<br>	 	 
+HTML elements with no content are called empty elements. Empty elements do not have an end tag, such as the <br> element (which indicates a line break).
+
+Nested HTML Elements
+HTML elements can be nested (elements can contain elements).
+
+All HTML documents consist of nested HTML elements.
